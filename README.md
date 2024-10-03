@@ -6,3 +6,4 @@ Step-1: I have created a resource group in Azure for this project named "databri
 * In this resource group, I have included blob storage acccount, databricks and keyvault resources till now.
 
 Step-2: I have created a cluster in DataBricks based on my student subscription.
+jj
